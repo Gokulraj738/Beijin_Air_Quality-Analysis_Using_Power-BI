@@ -1,5 +1,7 @@
 **Beijing Air Quality Analysis Using Power BI**
+
 **Introduction**
+
 Welcome to the Beijing Air Quality Analysis project! This repository contains an in-depth analysis of the air quality in Beijing using Power BI and Excel. The objective of this project is to analyze and visualize the air pollution levels in Beijing, identify trends, and derive insights that can be used for making data-driven decisions to improve air quality.
 
 **Key Features**
